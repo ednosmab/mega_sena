@@ -1,3 +1,15 @@
+📚 Desafio: 
+
+Criar um jogo que simule o sorteio da mega sena utilizando useState para alterar as mudanças de estado e implementar o conceito de Design System com componentização
+
+##
+
+🌎 Veja como ficou
+
+https://mega-sena-ten.vercel.app/
+
+##
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
