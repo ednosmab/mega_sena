@@ -49,9 +49,12 @@
     flex-direction: column;
 }
 .container h1 {
-    font-size: 5rem;
+    font-size: 8rem;
 }
-
+.container h2 {
+    margin: 1rem 0;
+    font-size: 2.5rem;
+}
 @media (prefers-color-scheme: dark) {
     :root {
         --foreground-rgb: 255, 255, 255;
